@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/margretheby/managing-secrets/issues"
   },
-  "homepage": "https://github.com/margretheby/managing-secrets#readme"
+  "homepage": "https://github.com/margretheby/managing-secrets#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
